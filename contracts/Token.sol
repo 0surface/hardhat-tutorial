@@ -5,7 +5,7 @@ import "hardhat/console.sol";
 
 contract Token {
     string public name = "My hardhat Token";
-    string public symbol = "MHT";
+    string public symbol = "SMT";
 
     uint256 public totalSupply = 1000000;
 
